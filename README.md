@@ -6,10 +6,36 @@
 - 😄 Pronouns:ele
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Jc-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Jc-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Jc-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+  <img align="center" alt="Jc-NodeJS" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+ 
+  <img align="center" alt="Jc-JavaScript" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+<img align="center" alt="Jc-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+<img align="center" alt="Jc-Git" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+
+<img align="center" alt="Jc-GitHub" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+
+<img align="center" alt="Jc-Bootstrap" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+
+<img align="center" alt="Jc-React" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
+<img align="center" alt="Jc-Logica" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/code/code-original.svg">
+
+<img align="center" alt="Jc-CSS3" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+
+
+
+   
           
 
 </div>
