@@ -1,7 +1,7 @@
 ### Olá! Eu sou João Claudio
 
-- 🔭 Formado em Análise e Desenvolvimento de Sistema
-- 🌱 Estudando essas tecnologias
+- 🔭 Sou formado em Análise e Desenvolvimento de Sistemas  
+- 🌱 Atualmente estudando e praticando as tecnologias abaixo 
 - 📫 Contate-me no email: jcaugusto22@gmail.com
 - 😄 Pronouns:ele
 
