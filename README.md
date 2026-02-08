@@ -5,7 +5,7 @@
 - 📫 Contate-me no email: jcaugusto22@gmail.com
 - 😄 Pronouns:ele
 
-<div style="display: flex; gap: 10px;">
+
   <img align="center" alt="Jc-NodeJS" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
 
@@ -37,4 +37,4 @@
             
        
           
-</div>
+
