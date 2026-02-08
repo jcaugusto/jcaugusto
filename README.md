@@ -21,17 +21,14 @@
     height="30"
     width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
-    />
-
-  <img 
+    /><img 
     align="center" 
     alt="Jc-HTML" 
     height="30" 
     width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
     />
-
-  <img 
+    <img 
     align="center" 
     alt="Jc-Git"
     height="30" 
