@@ -15,13 +15,15 @@
     height="30" 
     width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"
-    /><img 
+    />
+    <img 
     align="center" 
     alt="Jc-JavaScript" 
     height="30"
     width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
-    /><img 
+    />
+    <img 
     align="center" 
     alt="Jc-HTML" 
     height="30" 
@@ -35,7 +37,6 @@
     width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"
     />
-
   <img 
     align="center" 
     alt="Jc-GitHub" 
@@ -43,24 +44,21 @@
     width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
     />
-
-  <img 
+ <img 
     align="center" 
     alt="Jc-Bootstrap" 
     height="30" 
     width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"
     />
-
-  <img 
+ <img 
     align="center" 
     alt="Jc-React" 
     height="30" 
     width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
     />
-
-  <img 
+<img 
     align="center" 
     alt="Jc-CSS3" 
     height="30" 
