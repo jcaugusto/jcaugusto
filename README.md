@@ -1,7 +1,7 @@
 ### Olá! Eu sou João Claudio
 
 - 🔭 Formado em Análise e Desenvolvimento de Sistema
-- 🌱 Estudando Linguagem Java
+- 🌱 Estudando Linguagem Javascript
 - 📫 Contate-me no email: jcaugusto22@gmail.com
 - 😄 Pronouns:ele
 
