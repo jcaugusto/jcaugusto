@@ -3,7 +3,7 @@
 - 🔭 Sou Desenvolvedor Back-end, formado em Análise e Desenvolvimento de Sistemas
 - 🌱 Atualmente estudando e praticando as tecnologias abaixo 
 - 📫 Contate-me no email: jcaugusto22@gmail.com
-- 😄 Pronouns:ele
+
 
 ### 🤖 Linguagens e Tecnologias
 
