@@ -38,12 +38,11 @@
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"
     />
   <img 
-   align="center"
+     align="center"
      alt="Jc-GitHub"
      height="30"
      width="40"
-     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-    />
+     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"/>
  <img 
    align="center"
      alt="Jc-Bootstrap"
