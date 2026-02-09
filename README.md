@@ -45,11 +45,11 @@
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
     />
  <img 
-    align="center" 
-    alt="Jc-Bootstrap" 
-    height="30" 
-    width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"
+   align="center"
+     alt="Jc-Bootstrap"
+     height="30"
+     width="40"
+     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
     />
  <img 
     align="center" 
